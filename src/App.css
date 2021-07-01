@@ -1,0 +1,136 @@
+body {
+  background: rgb(46,24,99);
+  background: linear-gradient(94deg, rgba(46,24,99,1) 30%, rgba(60,43,123,0.773546918767507) 70%);
+  /* padding-bottom: 50px; */
+  border: 1px solid transparent;
+}
+
+.App {
+  text-align: center;
+  color: #FEF9EF !important;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.appPage {
+  /* background: rgb(46,24,99);
+  background: linear-gradient(94deg, rgba(46,24,99,1) 30%, rgba(60,43,123,0.773546918767507) 70%); */
+}
+
+.appPagePhoto {
+  max-width: 80%;
+  height: auto;
+  border-radius: 10px;
+  /* box-shadow: 0 0 8px 8px black inset; */
+
+}
+
+
+
+.sitebar {
+  color: #FEF9EF !important;
+}
+
+.headerApp {
+  color: #FEF9EF !important;
+}
+
+.practiceLog {
+  margin-top: 40px !important;
+  color: #FEF9EF !important;
+}
+
+.practiceJournal {
+  margin-top: 40px !important;
+  color: #FEF9EF !important;
+}
+
+.loginSignup {
+  color: #FEF9EF !important;
+}
+
+.loginSignupButton {
+  margin-top: 5px;
+  background-color: #FEF9EF !important;
+  color: rgb(46,24,99) !important;
+  border-color: #FEF9EF !important;
+}
+
+.loginSignupButton:hover {
+  background-color: #DEDAD1 !important;
+  color: rgb(46,24,99) !important;
+  box-shadow: 2px 2px rgb(46,24,99);
+}
+
+.logCreateButton {
+  margin-top: 10px;
+  background-color: #2B0F6C !important;
+  border-color: #2B0F6C !important;
+}
+
+.logCreateButton:hover {
+  background-color: #1B0944 !important;
+  border-color: #1B0944 !important;
+}
+
+.updateButton {
+  /* background-color: #70AABD !important; */
+  margin-right: 5px;
+  /* border-color: #70AABD !important; */
+  background-color: #FEF9EF !important;
+  color: rgb(46,24,99) !important;
+  border-color: #FEF9EF !important;
+}
+
+.updateButton:hover {
+  background-color: #DEDAD1 !important;
+  color: rgb(46,24,99) !important;
+}
+
+.deleteButton {
+  background-color: #6C0F22 !important;
+  /* margin-right: 5px; */
+  border-color: #6C0F22 !important;
+}
+
+.deleteButton:hover {
+  background-color: #5F0D1E !important;
+  border-color: #5F0D1E !important;
+}
+
+.quoteName {
+  font-weight: 400 !important;
+  font-style: italic;
+}
+
+.musicNote {
+  width: 60px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.journalTable {
+  color: #FEF9EF !important;
+}
+
+.journalData {
+  color: #FEF9EF !important;
+}
